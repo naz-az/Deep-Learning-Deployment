@@ -16,4 +16,4 @@ The AI models in this repository have been deployed using several robust strateg
 
 ## Contributions
 
-We actively encourage contributions to this repository! If you're keen to add your own AI deployment projects or refine the existing ones, don't hesitate to submit a pull request. Let's collaborate to make AI more accessible, understandable, and beneficial for all.
+I actively encourage contributions to this repository! If you're keen to add your own AI deployment projects or refine the existing ones, don't hesitate to submit a pull request. Let's collaborate to make AI more accessible, understandable, and beneficial for all.
